@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 304
+// عدد الأكواد: 303
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1625,14 +1625,6 @@ const allCodeData = {
             "template": "[c][00FF00]01010101\n[FFFFFF]10101010\n[00FF00]01010101",
             "keywords": [
                 "binary"
-            ]
-        },
-        {
-            "title": "حيوان: النسر",
-            "id": "animal-eagle",
-            "template": "[b][c][E1D9D1]THE EAGLE\n[FFFFFF]HAS LANDED 🦅",
-            "keywords": [
-                "نسر"
             ]
         },
         {
