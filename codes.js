@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 348
+// عدد الأكواد: 345
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -753,13 +753,6 @@ const allCodeData = {
             "keywords": []
         },
         {
-            "title": "علم الكويت 🇰🇼",
-            "id": "flag-kuwait",
-            "template": "[b][008000]█[FFFFFF]█[FF0000]█\n[000000]▶[FFFFFF] {{TEXT}}",
-            "defaultText": "KWT",
-            "keywords": []
-        },
-        {
             "title": "علم البرازيل 🇧🇷",
             "id": "flag-brazil",
             "template": "[b][009C3B]█[FFDF00]◆[009C3B]█\n[FFFFFF] {{TEXT}}",
@@ -807,17 +800,6 @@ const allCodeData = {
         }
     ],
     "love-codes": [
-        {
-            "title": "حب أبدي",
-            "id": "love-forever",
-            "template": "[FF4F8B]❤[FFFFFF] {{TEXT}} [FF4F8B]❤\n[c][FFFFFF]F O R E V E R",
-            "defaultText": "You & Me"
-        },
-        {
-            "title": "قلب مكسور",
-            "id": "love-broken-heart",
-            "template": "[b][c][A0A0A0]BROKEN\n[FF0000]💔"
-        },
         {
             "title": "أحبك",
             "id": "love-1",
