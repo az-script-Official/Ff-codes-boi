@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 375
+// عدد الأكواد: 373
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -197,19 +197,6 @@ const allCodeData = {
             "keywords": [
                 "شبح"
             ]
-        },
-        {
-            "title": "كود قهوة",
-            "id": "shape-coffee",
-            "template": "[c][6D7B8D]   .-.    \n  (   )   \n   `~`    \n[E1D9D1]c[_] COFFEE",
-            "keywords": [
-                "قهوة"
-            ]
-        },
-        {
-            "title": "بروفايل مخلب",
-            "id": "shape-claw",
-            "template": "[b][c][A0A0A0]爪 [FFFFFF]C L A W [A0A0A0]爪"
         },
         {
             "title": "شكل سحابة رعدية",
