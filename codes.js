@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 370
+// عدد الأكواد: 368
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -337,22 +337,6 @@ const allCodeData = {
             "template": "[c][FFFF00]☢︎",
             "keywords": [
                 "نووي"
-            ]
-        },
-        {
-            "title": "شكل القمر",
-            "id": "shape-moon",
-            "template": "[c][E1D9D1]   _.._\n .'    `.\n`        `",
-            "keywords": [
-                "قمر"
-            ]
-        },
-        {
-            "title": "شكل كريستالة",
-            "id": "shape-crystal",
-            "template": "[c][FF00FF]🔮",
-            "keywords": [
-                "كريستال"
             ]
         },
         {
