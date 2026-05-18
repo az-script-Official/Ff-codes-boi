@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 381
+// عدد الأكواد: 378
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -63,30 +63,6 @@ const allCodeData = {
             "keywords": [
                 "قطة",
                 "بسة"
-            ]
-        },
-        {
-            "title": "رمز القنبلة",
-            "id": "new-bomb",
-            "template": "[b][c][FF0000]DANGER\n[000000]     💣",
-            "keywords": [
-                "قنبله"
-            ]
-        },
-        {
-            "title": "رمز الماس",
-            "id": "new-diamond",
-            "template": "[b][c][00F2EA]DIAMOND\n[FFFFFF]     💎",
-            "keywords": [
-                "الماس"
-            ]
-        },
-        {
-            "title": "رمز الجمجمة",
-            "id": "new-skull",
-            "template": "[b][c][FFFFFF]DANGER\n[A0A0A0]     💀",
-            "keywords": [
-                "جمجمة"
             ]
         },
         {
