@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 336
+// عدد الأكواد: 334
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -914,20 +914,6 @@ const allCodeData = {
             "template": "[b][c][FFFFFF]أنتِ [FFFF00]قمري 🌙",
             "keywords": [
                 "قمر"
-            ]
-        },
-        {
-            "title": "حب مزخرف",
-            "id": "love-arabic-art",
-            "template": "[c][FF4F8B]حُــب",
-            "keywords": []
-        },
-        {
-            "title": "مأخوذ ❤️",
-            "id": "love-taken",
-            "template": "[b][c][A0A0A0]TAKEN [FF0000]❤",
-            "keywords": [
-                "مرتبط"
             ]
         },
         {
