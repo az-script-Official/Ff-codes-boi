@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 271
+// عدد الأكواد: 270
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -465,14 +465,6 @@ const allCodeData = {
             "template": "[c][A0A0A0]<:3 )~",
             "keywords": [
                 "فأر"
-            ]
-        },
-        {
-            "title": "رمز الباندا",
-            "id": "shape-panda",
-            "template": "[c][FFFFFF]🐼",
-            "keywords": [
-                "باندا"
             ]
         },
         {
