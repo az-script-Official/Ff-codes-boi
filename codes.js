@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 390
+// عدد الأكواد: 387
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -82,37 +82,11 @@ const allCodeData = {
             ]
         },
         {
-            "title": "بروفايل النسر الذهبي",
-            "id": "new-eagle",
-            "template": "[FFD700]█▄◯╲╱☰[FFFFFF]\n{{TEXT}}",
-            "defaultText": "YOUR NAME",
-            "keywords": [
-                "صقر"
-            ]
-        },
-        {
             "title": "كود خطر ☣️",
             "id": "new-biohazard",
             "template": "[b][c][FFFF00]BIOHAZARD\n[FFFFFF]    ☣︎",
             "keywords": [
                 "سام"
-            ]
-        },
-        {
-            "title": "كود أجنحة الملاك",
-            "id": "new-angel-wings",
-            "template": "[c][FFFFFF]╲ [FFD700]A N G E L[FFFFFF] ╱",
-            "keywords": [
-                "جناح"
-            ]
-        },
-        {
-            "title": "كود THE FLASH",
-            "id": "new-flash",
-            "template": "[b][c][FFD700]THE FLASH\n      ⚡️",
-            "keywords": [
-                "فلاش",
-                "سريع"
             ]
         },
         {
