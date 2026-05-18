@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 312
+// عدد الأكواد: 311
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1416,11 +1416,6 @@ const allCodeData = {
             "keywords": [
                 "مطلوب"
             ]
-        },
-        {
-            "title": "ملك الصحراء",
-            "id": "gaming-desert-king",
-            "template": "[b][c][FFD700]DESERT KING\n[FFFF00]      🦅"
         },
         {
             "title": "لاعب تكتيكي",
