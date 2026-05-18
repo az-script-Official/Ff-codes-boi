@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 314
+// عدد الأكواد: 312
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1365,22 +1365,6 @@ const allCodeData = {
             "template": "[b][c][ffff00]㉿ [00FF00]القتل السهل 〄",
             "keywords": [
                 "قتل"
-            ]
-        },
-        {
-            "title": "حاكم الجيم",
-            "id": "gym-ruler",
-            "template": "[b][c][FF9933]❚█[FFFFFF]حاكم[ffd319] الجيم [FF9933]█❚",
-            "keywords": [
-                "جيم"
-            ]
-        },
-        {
-            "title": "لاعب ذهبي",
-            "id": "golden-player",
-            "template": "[FFD700] GOLDEN PLAYER [FFFFFF]⚡",
-            "keywords": [
-                "ذهبي"
             ]
         },
         {
