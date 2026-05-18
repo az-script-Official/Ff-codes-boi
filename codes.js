@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 378
+// عدد الأكواد: 375
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -134,35 +134,11 @@ const allCodeData = {
             ]
         },
         {
-            "title": "شكل صليب",
-            "id": "shape-cross",
-            "template": "[c][A0A0A0]      t\n[b][FFFFFF]✞ MEMENTO MORI ✞",
-            "keywords": [
-                "صليب"
-            ]
-        },
-        {
             "title": "شكل دب (Kaomoji)",
             "id": "shape-bear",
             "template": "[c][FFFFFF](ᵔᴥᵔ)",
             "keywords": [
                 "دب"
-            ]
-        },
-        {
-            "title": "ستايل جمالي",
-            "id": "shape-aesthetic",
-            "template": "[b][c][FF00FF]ＡＥＳＴＨＥＴＩＣ",
-            "keywords": [
-                "جمالي"
-            ]
-        },
-        {
-            "title": "ستايل فابورويف",
-            "id": "shape-vaporwave",
-            "template": "[b][c][00F2EA]ＶＡＰＯＲＷＡＶＥ",
-            "keywords": [
-                "فابور"
             ]
         },
         {
