@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 281
+// عدد الأكواد: 280
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1799,11 +1799,6 @@ const allCodeData = {
             "title": "ولدت لأتألق",
             "id": "quote-born-to-shine",
             "template": "[c][b]Born to\n[FFFF00]SHINE"
-        },
-        {
-            "title": "اصنع قصتك الخاصة",
-            "id": "quote-create-story",
-            "template": "[c][b]Create your\n[A0A0A0]own story"
         }
     ],
     "social-media-codes": [
