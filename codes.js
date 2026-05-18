@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 287
+// عدد الأكواد: 285
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1739,22 +1739,6 @@ const allCodeData = {
             "title": "آمن بنفسك",
             "id": "quote-believe-yourself",
             "template": "[c][b]BELIEVE\n[FFD700]IN YOURSELF"
-        },
-        {
-            "title": "حيوان: الذئب",
-            "id": "animal-wolf",
-            "template": "[b][c][A0A0A0]THE WOLF\n[FFFFFF]PACK 🐺",
-            "keywords": [
-                "ذئب"
-            ]
-        },
-        {
-            "title": "حيوان: القرش",
-            "id": "animal-shark",
-            "template": "[b][c][6CABDD]APEX PREDATOR\n[FFFFFF]🦈",
-            "keywords": [
-                "قرش"
-            ]
         },
         {
             "title": "الأحلام لا تعمل إلا إذا فعلت",
