@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 325
+// عدد الأكواد: 322
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1049,21 +1049,6 @@ const allCodeData = {
             "title": "أنت سبب ابتسامتي",
             "id": "love-my-smile",
             "template": "[c][b]The reason [FFFF00]I smile"
-        },
-        {
-            "title": "حبنا أغنية",
-            "id": "love-our-song",
-            "template": "[c][b][FF00FF]Our love is a song"
-        },
-        {
-            "title": "إلى القمر والعودة",
-            "id": "love-moon-back",
-            "template": "[c][b]To the [A0A0A0]moon [FFFFFF]& back"
-        },
-        {
-            "title": "أنت كل ما أحتاج",
-            "id": "love-all-i-need",
-            "template": "[c][b]You're all [FF0000]I need"
         },
         {
             "title": "يدي بيدك",
