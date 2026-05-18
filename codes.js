@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 353
+// عدد الأكواد: 349
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -541,40 +541,6 @@ const allCodeData = {
         }
     ],
     "sports-clubs-codes": [
-        {
-            "title": "الهلال السعودي",
-            "id": "club-hilal",
-            "template": "[b][0000FF] زعيم آسيا 🇸🇦\n[FFFFFF] {{TEXT}}",
-            "defaultText": "Al-Hilal",
-            "keywords": [
-                "هلال"
-            ]
-        },
-        {
-            "title": "النصر السعودي",
-            "id": "club-nassr",
-            "template": "[b][FFFF00] العالمي 🇸🇦\n[0000FF] {{TEXT}}",
-            "defaultText": "Al-Nassr",
-            "keywords": [
-                "نصر"
-            ]
-        },
-        {
-            "title": "الأهلي المصري",
-            "id": "club-ahly-egy",
-            "template": "[b][FF0000] نادي القرن 🇪🇬\n[FFFFFF] {{TEXT}}",
-            "defaultText": "Al-Ahly",
-            "keywords": [
-                "اهلي"
-            ]
-        },
-        {
-            "title": "الزمالك المصري",
-            "id": "club-zamalek",
-            "template": "[b][FFFFFF] الفن والهندسة 🇪🇬\n[FF0000] {{TEXT}}",
-            "defaultText": "Zamalek",
-            "keywords": []
-        },
         {
             "title": "مانشستر سيتي",
             "id": "club-mancity",
