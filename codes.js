@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 356
+// عدد الأكواد: 354
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -457,22 +457,6 @@ const allCodeData = {
             "template": "[c][FF00FF]꧁∞꧂",
             "keywords": [
                 "انفنتي"
-            ]
-        },
-        {
-            "title": "شكل ندفة ثلج",
-            "id": "shape-snowflake",
-            "template": "[c][00F2EA]❄️",
-            "keywords": [
-                "ثلج"
-            ]
-        },
-        {
-            "title": "رمز القوة",
-            "id": "shape-power",
-            "template": "[c][FFFF00]⚡",
-            "keywords": [
-                "قوة"
             ]
         },
         {
