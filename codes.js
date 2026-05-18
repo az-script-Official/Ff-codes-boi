@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 311
+// عدد الأكواد: 310
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1416,11 +1416,6 @@ const allCodeData = {
             "keywords": [
                 "مطلوب"
             ]
-        },
-        {
-            "title": "لاعب تكتيكي",
-            "id": "gaming-tactical",
-            "template": "[b][c][00FF00]TACTICAL GENIUS"
         },
         {
             "title": "لا رحمة للسكواد",
