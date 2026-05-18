@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 289
+// عدد الأكواد: 287
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1699,16 +1699,6 @@ const allCodeData = {
             "title": "موسيقى هي حياتي",
             "id": "quote-music-life",
             "template": "[c][b][FF00FF]MUSIC\n[FFFFFF]IS MY\n[00F2EA]LIFE"
-        },
-        {
-            "title": "فنان",
-            "id": "misc-artist",
-            "template": "[c][b][33CC99]A R T I S T 🎨"
-        },
-        {
-            "title": "شاعر",
-            "id": "misc-poet",
-            "template": "[c][b][A0A0A0]P O E T ✒️"
         },
         {
             "title": "حالة: أفكر",
