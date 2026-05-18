@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 358
+// عدد الأكواد: 357
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -449,14 +449,6 @@ const allCodeData = {
             "template": "[c][FF0000]✗",
             "keywords": [
                 "خطأ"
-            ]
-        },
-        {
-            "title": "وجه يبكي من الضحك",
-            "id": "shape-lol-face",
-            "template": "[c][FFFF00](😂)",
-            "keywords": [
-                "ضحك"
             ]
         },
         {
