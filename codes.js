@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 318
+// عدد الأكواد: 317
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1162,11 +1162,6 @@ const allCodeData = {
             "title": "بروفايل ساموراي",
             "id": "new-samurai",
             "template": "[b][c][DA291C]S A M U R A I\n[FFFFFF]      [DA291C]日本刀"
-        },
-        {
-            "title": "بروفايل نيون",
-            "id": "new-neon",
-            "template": "[b][c][00F2EA]N E O N [FF00FF]L I G H T S"
         },
         {
             "title": "بروفايل نار وثلج",
