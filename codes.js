@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 306
+// عدد الأكواد: 304
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1625,22 +1625,6 @@ const allCodeData = {
             "template": "[c][00FF00]01010101\n[FFFFFF]10101010\n[00FF00]01010101",
             "keywords": [
                 "binary"
-            ]
-        },
-        {
-            "title": "حيوان: الأسد",
-            "id": "animal-lion",
-            "template": "[b][c][FFA500]KING OF\n[FFFFFF]THE JUNGLE 🦁",
-            "keywords": [
-                "أسد"
-            ]
-        },
-        {
-            "title": "حيوان: الثعبان",
-            "id": "animal-snake",
-            "template": "[b][c][00FF00]S S S S . . .\n[FFFFFF]      🐍",
-            "keywords": [
-                "ثعبان"
             ]
         },
         {
