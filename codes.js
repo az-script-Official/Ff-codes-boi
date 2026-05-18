@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 272
+// عدد الأكواد: 271
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -377,14 +377,6 @@ const allCodeData = {
             "template": "[c][6CABDD]><(((°>",
             "keywords": [
                 "سمك"
-            ]
-        },
-        {
-            "title": "شكل مفتاح",
-            "id": "shape-key",
-            "template": "[c][FFD700]🔑",
-            "keywords": [
-                "مفتاح"
             ]
         },
         {
