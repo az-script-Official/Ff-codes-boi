@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 368
+// عدد الأكواد: 361
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -364,22 +364,6 @@ const allCodeData = {
             ]
         },
         {
-            "title": "شكل طائرة ورقية",
-            "id": "shape-kite",
-            "template": "[c][FF0000]  /\\\n /__\\\n  /\\ \n  \\/",
-            "keywords": [
-                "طائرة"
-            ]
-        },
-        {
-            "title": "كود واي فاي كامل",
-            "id": "shape-wifi-full",
-            "template": "[c][FFFFFF]   ((•))\n    📶",
-            "keywords": [
-                "واي فاي"
-            ]
-        },
-        {
             "title": "وجه ملاك",
             "id": "shape-angel-face",
             "template": "[c][FFD700]O:)",
@@ -388,27 +372,11 @@ const allCodeData = {
             ]
         },
         {
-            "title": "رمز إعادة التدوير",
-            "id": "shape-recycle",
-            "template": "[c][00FF00]♻︎",
-            "keywords": [
-                "بيئة"
-            ]
-        },
-        {
             "title": "شكل سمكة",
             "id": "shape-fish",
             "template": "[c][6CABDD]><(((°>",
             "keywords": [
                 "سمك"
-            ]
-        },
-        {
-            "title": "شكل صاروخ بسيط",
-            "id": "shape-rocket-simple",
-            "template": "[c][A0A0A0]∆",
-            "keywords": [
-                "صاروخ"
             ]
         },
         {
@@ -425,30 +393,6 @@ const allCodeData = {
             "template": "[c][FF0000]>:)",
             "keywords": [
                 "شيطان"
-            ]
-        },
-        {
-            "title": "رمز لايك",
-            "id": "shape-like",
-            "template": "[c][00aaff]👍",
-            "keywords": [
-                "لايك"
-            ]
-        },
-        {
-            "title": "شكل قفل",
-            "id": "shape-lock",
-            "template": "[c][A0A0A0]🔒",
-            "keywords": [
-                "قفل"
-            ]
-        },
-        {
-            "title": "رمز دي ان ايه",
-            "id": "shape-dna",
-            "template": "[c][33CC99]⚚",
-            "keywords": [
-                "DNA"
             ]
         },
         {
