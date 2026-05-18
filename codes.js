@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 276
+// عدد الأكواد: 274
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1736,19 +1736,9 @@ const allCodeData = {
             "template": "[c][b][FF0000]BREAK THE RULES"
         },
         {
-            "title": "آمن بنفسك",
-            "id": "quote-believe-yourself",
-            "template": "[c][b]BELIEVE\n[FFD700]IN YOURSELF"
-        },
-        {
             "title": "الأحلام لا تعمل إلا إذا فعلت",
             "id": "quote-dreams-work",
             "template": "[c][b]Dreams don't work\n[00FF00]unless you do"
-        },
-        {
-            "title": "اجمع لحظات لا أشياء",
-            "id": "quote-collect-moments",
-            "template": "[c][b]Collect moments\n[FF00FF]not things"
         },
         {
             "title": "مستقبلي",
