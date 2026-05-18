@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 292
+// عدد الأكواد: 291
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1643,11 +1643,6 @@ const allCodeData = {
             "keywords": [
                 "حياة"
             ]
-        },
-        {
-            "title": "برج الثور ♉",
-            "id": "zodiac-taurus",
-            "template": "[c][b][009C3B]♉︎ TAURUS ♉︎"
         },
         {
             "title": "أنا لست مثاليًا",
