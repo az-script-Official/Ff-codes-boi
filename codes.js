@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 322
+// عدد الأكواد: 320
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1049,16 +1049,6 @@ const allCodeData = {
             "title": "أنت سبب ابتسامتي",
             "id": "love-my-smile",
             "template": "[c][b]The reason [FFFF00]I smile"
-        },
-        {
-            "title": "يدي بيدك",
-            "id": "love-hand-in-hand",
-            "template": "[c][b]Hand [FF4F8B]in [FFFFFF]Hand"
-        },
-        {
-            "title": "أنت بيتي",
-            "id": "love-you-are-home",
-            "template": "[c][b]You feel like [008000]home"
         },
         {
             "title": "وقعت في حبك",
