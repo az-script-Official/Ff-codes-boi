@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 329
+// عدد الأكواد: 325
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1011,16 +1011,6 @@ const allCodeData = {
             "template": "[c][b][FFFFFF]You & Me vs The World"
         },
         {
-            "title": "نبض قلبي (ستايل 2)",
-            "id": "love-my-beat",
-            "template": "[c][b][FF0000]My [FFFFFF]Heartbeat"
-        },
-        {
-            "title": "رسالة في زجاجة",
-            "id": "love-bottle",
-            "template": "[c][6CABDD]Message in a bottle... I LOVE YOU"
-        },
-        {
             "title": "حب من أول نظرة",
             "id": "love-first-sight",
             "template": "[c][b][FF4F8B]Love at first sight"
@@ -1049,16 +1039,6 @@ const allCodeData = {
             "title": "معاً أفضل",
             "id": "love-better-together",
             "template": "[c][b]Better [FF4F8B]Together"
-        },
-        {
-            "title": "لغزي المفقود",
-            "id": "love-puzzle",
-            "template": "[c][b]My missing [00aaff]puzzle [FFFFFF]piece"
-        },
-        {
-            "title": "كل يوم أحبك أكثر",
-            "id": "love-everyday",
-            "template": "[c][b]Everyday I love you [FF0000]more"
         },
         {
             "title": "نوري في الظلام",
