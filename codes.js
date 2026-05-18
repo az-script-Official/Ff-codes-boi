@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 320
+// عدد الأكواد: 319
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1149,11 +1149,6 @@ const allCodeData = {
             "title": "كود الجوكر",
             "id": "new-joker",
             "template": "[c][00FF00]WHY SO [FF00FF]SERIOUS?\n[b][FFFFFF] HA HA HA"
-        },
-        {
-            "title": "بروفايل التنين",
-            "id": "new-dragon",
-            "template": "[b][c][00FF00]D[FF8C00]R[00FF00]A[FF8C00]G[00FF00]O[FF8C00]N\n[FFFFFF]    ◢▆█▆◣"
         },
         {
             "title": "بروفايل أسطورة 5 نجوم",
