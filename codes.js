@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 316
+// عدد الأكواد: 314
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1174,14 +1174,6 @@ const allCodeData = {
             "template": "[b][c][00FF00]<[FFFFFF]C O D E R[00FF00]/>"
         },
         {
-            "title": "بروفايل HEADSHOT",
-            "id": "new-headshot",
-            "template": "[b][c][FF0000]H E A D S H O T\n[FFFFFF]      🎯",
-            "keywords": [
-                "هيدشوت"
-            ]
-        },
-        {
             "title": "بروفايل مقاتل الظل",
             "id": "new-shadow",
             "template": "[b][c][A0A0A0]S H A D O W\n[000000]█[A0A0A0]█[000000]█[A0A0A0]█[000000]█\n[A0A0A0]      ⚔︎"
@@ -1225,11 +1217,6 @@ const allCodeData = {
             "title": "كود LOADING...",
             "id": "new-loading",
             "template": "[b][c][A0A0A0]Loading...\n[00FF00]█████▒▒▒▒▒"
-        },
-        {
-            "title": "كود الوحش",
-            "id": "new-beast",
-            "template": "[b][c][008000]B E A S T\n[FFFFFF]    MODE"
         },
         {
             "title": "كود سولو ضد سكواد",
