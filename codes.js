@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 334
+// عدد الأكواد: 331
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -974,21 +974,6 @@ const allCodeData = {
             "title": "قلب و سهم",
             "id": "love-heart-arrow",
             "template": "[c][FF0000]❤🏹"
-        },
-        {
-            "title": "شرارة حب",
-            "id": "love-spark",
-            "template": "[c][b]You are my [FFFF00]spark ✨"
-        },
-        {
-            "title": "فقط نحن الإثنان",
-            "id": "love-just-us",
-            "template": "[c][b][FFFFFF]Just the [FF4F8B]Two [FFFFFF]of Us"
-        },
-        {
-            "title": "أنت نصي الآخر",
-            "id": "love-my-half",
-            "template": "[c][b]My Better Half [FF0000]❤"
         },
         {
             "title": "قصة حب لا تنتهي",
