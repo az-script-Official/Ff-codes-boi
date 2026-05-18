@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 349
+// عدد الأكواد: 348
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -687,15 +687,6 @@ const allCodeData = {
         }
     ],
     "country-flags-codes": [
-        {
-            "title": "علم السعودية 🇸🇦",
-            "id": "flag-ksa",
-            "template": "[b][006F2A]█🇸🇦█\n[FFFFFF] {{TEXT}}",
-            "defaultText": "K.S.A",
-            "keywords": [
-                "سعوديه"
-            ]
-        },
         {
             "title": "علم مصر 🇪🇬",
             "id": "flag-egypt",
