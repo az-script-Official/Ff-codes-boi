@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 302
+// عدد الأكواد: 292
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1648,56 +1648,6 @@ const allCodeData = {
             "title": "برج الثور ♉",
             "id": "zodiac-taurus",
             "template": "[c][b][009C3B]♉︎ TAURUS ♉︎"
-        },
-        {
-            "title": "برج الجوزاء ♊",
-            "id": "zodiac-gemini",
-            "template": "[c][b][FFFF00]♊︎ GEMINI ♊︎"
-        },
-        {
-            "title": "برج السرطان ♋",
-            "id": "zodiac-cancer",
-            "template": "[c][b][A0A0A0]♋︎ CANCER ♋︎"
-        },
-        {
-            "title": "برج الأسد ♌",
-            "id": "zodiac-leo",
-            "template": "[c][b][FFD700]♌︎ LEO ♌︎"
-        },
-        {
-            "title": "برج العذراء ♍",
-            "id": "zodiac-virgo",
-            "template": "[c][b][008000]♍︎ VIRGO ♍︎"
-        },
-        {
-            "title": "برج الميزان ♎",
-            "id": "zodiac-libra",
-            "template": "[c][b][6CABDD]♎︎ LIBRA ♎︎"
-        },
-        {
-            "title": "برج العقرب ♏",
-            "id": "zodiac-scorpio",
-            "template": "[c][b][FF0000]♏︎ SCORPIO ♏︎"
-        },
-        {
-            "title": "برج القوس ♐",
-            "id": "zodiac-sagittarius",
-            "template": "[c][b][9B1B30]♐︎ SAGITTARIUS ♐︎"
-        },
-        {
-            "title": "برج الجدي ♑",
-            "id": "zodiac-capricorn",
-            "template": "[c][b][6D7B8D]♑︎ CAPRICORN ♑︎"
-        },
-        {
-            "title": "برج الدلو ♒",
-            "id": "zodiac-aquarius",
-            "template": "[c][b][00F2EA]♒︎ AQUARIUS ♒︎"
-        },
-        {
-            "title": "برج الحوت ♓",
-            "id": "zodiac-pisces",
-            "template": "[c][b][5865F2]♓︎ PISCES ♓︎"
         },
         {
             "title": "أنا لست مثاليًا",
