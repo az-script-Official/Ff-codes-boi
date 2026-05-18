@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 342
+// عدد الأكواد: 337
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -827,11 +827,6 @@ const allCodeData = {
             "template": "[c][b][FFD700]🔑 [FFFFFF]The key to my [FF0000]❤"
         },
         {
-            "title": "توأم روحي",
-            "id": "love-8",
-            "template": "[b][c][FF4F8B]S O U L M A T E"
-        },
-        {
             "title": "قصة حبنا",
             "id": "love-9",
             "template": "[c][FFFFFF]Our Love Story [FF0000]❤"
@@ -847,25 +842,10 @@ const allCodeData = {
             "template": "[c][b][00aaff]You are my [FFFFFF]World 🌏"
         },
         {
-            "title": "حب لا نهائي",
-            "id": "love-12",
-            "template": "[c][b][FF4F8B]∞ [FFFFFF]Infinite Love [FF4F8B]∞"
-        },
-        {
             "title": "أنت وأنا",
             "id": "love-names",
             "template": "[b][c][FFFFFF]{{NAME1}} [FF0000]❤ [FFFFFF]{{NAME2}}",
             "defaultText": "Player1,Player2"
-        },
-        {
-            "title": "نبضات القلب",
-            "id": "love-beat",
-            "template": "[c][FF0000]__/\u001b\u001b__/\u001b\u001b__"
-        },
-        {
-            "title": "خاتم الحب",
-            "id": "love-ring",
-            "template": "[b][c][FFD700]Will you marry me?\n      💍"
         },
         {
             "title": "ملكة قلبي",
@@ -881,11 +861,6 @@ const allCodeData = {
             "title": "أحبك أكثر",
             "id": "love-more",
             "template": "[b][c][FF4F8B]I Love You More"
-        },
-        {
-            "title": "أنت شمسي",
-            "id": "love-sunshine",
-            "template": "[b][c][FFFF00]You are my ☀️"
         },
         {
             "title": "حبيبي/حبيبتي",
