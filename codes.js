@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 361
+// عدد الأكواد: 358
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -420,22 +420,6 @@ const allCodeData = {
             ]
         },
         {
-            "title": "رمز هدف",
-            "id": "shape-target",
-            "template": "[c][FF0000]🎯",
-            "keywords": [
-                "هدف"
-            ]
-        },
-        {
-            "title": "كوكب زحل",
-            "id": "shape-saturn",
-            "template": "[c][F8D300]♄",
-            "keywords": [
-                "زحل"
-            ]
-        },
-        {
             "title": "رمز رجل",
             "id": "shape-man",
             "template": "[c][00aaff]♂",
@@ -457,14 +441,6 @@ const allCodeData = {
             "template": "[c][A0A0A0]═.♥.═",
             "keywords": [
                 "زخرفة"
-            ]
-        },
-        {
-            "title": "رمز تيك",
-            "id": "shape-checkmark",
-            "template": "[c][00FF00]✓",
-            "keywords": [
-                "صح"
             ]
         },
         {
