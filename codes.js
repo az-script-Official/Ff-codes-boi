@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 331
+// عدد الأكواد: 329
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -984,16 +984,6 @@ const allCodeData = {
             "title": "حبي لك كالمجرة",
             "id": "love-galaxy",
             "template": "[c][b][5865F2]My love for you is a galaxy"
-        },
-        {
-            "title": "أنت كنزي",
-            "id": "love-treasure",
-            "template": "[c][b]You are my [FFD700]treasure 💎"
-        },
-        {
-            "title": "أنت أغنيتي",
-            "id": "love-my-song",
-            "template": "[c][b][FF00FF]You are my song 🎶"
         },
         {
             "title": "حب مجنون",
