@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 310
+// عدد الأكواد: 309
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1537,11 +1537,6 @@ const allCodeData = {
             "title": "الأفضل في اللعبة",
             "id": "gaming-goat",
             "template": "[b][c][FFD700]G.O.A.T"
-        },
-        {
-            "title": "ملك اللوت",
-            "id": "gaming-loot-king",
-            "template": "[b][c][00FF00]LOOT KING 🎒"
         },
         {
             "title": "ملك المنطقة الزرقاء",
