@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 274
+// عدد الأكواد: 272
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1650,12 +1650,6 @@ const allCodeData = {
             "template": "[c][b][A0A0A0]I'm not perfect\nbut I'm [FFFFFF]limited edition."
         },
         {
-            "title": "صنع في...",
-            "id": "quote-made-in",
-            "template": "[c][b]MADE IN\n[FF0000]{{TEXT}}",
-            "defaultText": "EGYPT"
-        },
-        {
             "title": "هدوء ما قبل العاصفة",
             "id": "quote-calm-storm",
             "template": "[c][b][6CABDD]The calm before\n[A0A0A0]the storm."
@@ -1704,11 +1698,6 @@ const allCodeData = {
             "title": "حالة: أفكر",
             "id": "status-thinking",
             "template": "[b][6CABDD]● Thinking..."
-        },
-        {
-            "title": "أنا مختلف",
-            "id": "quote-different",
-            "template": "[c][b]I'm not weird\nI'm [FF00FF]different."
         },
         {
             "title": "لا تستسلم أبدا",
