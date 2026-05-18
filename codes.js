@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 307
+// عدد الأكواد: 306
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1584,14 +1584,6 @@ const allCodeData = {
             "template": "[b][c][FF00FF]DREAM\n[FFFFFF]  BIG",
             "keywords": [
                 "حلم"
-            ]
-        },
-        {
-            "title": "مثل: اطلبوا العلم",
-            "id": "quote-knowledge",
-            "template": "[b][c][6CABDD]اطلبوا العلم\n[FFFFFF]من المهد إلى اللحد",
-            "keywords": [
-                "علم"
             ]
         },
         {
