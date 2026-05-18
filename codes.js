@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 285
+// عدد الأكواد: 281
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1801,19 +1801,9 @@ const allCodeData = {
             "template": "[c][b]Born to\n[FFFF00]SHINE"
         },
         {
-            "title": "السماء هي الحد",
-            "id": "quote-sky-limit",
-            "template": "[c][b]The sky is\n[6CABDD]the limit"
-        },
-        {
             "title": "اصنع قصتك الخاصة",
             "id": "quote-create-story",
             "template": "[c][b]Create your\n[A0A0A0]own story"
-        },
-        {
-            "title": "الهدوء قوة",
-            "id": "quote-silence-power",
-            "template": "[c][b][A0A0A0]SILENCE\n[FFFFFF]IS POWER"
         }
     ],
     "social-media-codes": [
@@ -1887,19 +1877,6 @@ const allCodeData = {
             "template": "[33CC99]▷◉───────00:00",
             "keywords": [
                 "اغنية"
-            ]
-        },
-        {
-            "title": "رمز واي فاي",
-            "id": "new-wifi",
-            "template": "[b][c][A0A0A0]Searching for WiFi\n[00FF00]   📶"
-        },
-        {
-            "title": "رمز الهاتف",
-            "id": "new-call-me",
-            "template": "[b][c][00FF00]CALL ME\n[FFFFFF]     📞",
-            "keywords": [
-                "اتصل"
             ]
         },
         {
