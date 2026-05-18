@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 280
+// عدد الأكواد: 276
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1756,16 +1756,6 @@ const allCodeData = {
             "template": "[c][b]My future is\n[00F2EA]LOADING..."
         },
         {
-            "title": "لا حدود",
-            "id": "quote-no-limits",
-            "template": "[c][b][FFFF00]NO LIMITS"
-        },
-        {
-            "title": "اجعلها تحدث",
-            "id": "quote-make-it-happen",
-            "template": "[c][b]MAKE IT\n[00aaff]HAPPEN"
-        },
-        {
             "title": "مقولة: استمر",
             "id": "quote-keep-going",
             "template": "[c][b][33CC99]KEEP GOING"
@@ -1789,16 +1779,6 @@ const allCodeData = {
             "title": "عش، اضحك، حب",
             "id": "quote-live-laugh-love",
             "template": "[c][b][00FF00]Live. [FF00FF]Laugh. [FF0000]Love."
-        },
-        {
-            "title": "الطاقة لا تكذب",
-            "id": "quote-energy-lies",
-            "template": "[c][b][FF00FF]ENERGY\n[A0A0A0]never lies"
-        },
-        {
-            "title": "ولدت لأتألق",
-            "id": "quote-born-to-shine",
-            "template": "[c][b]Born to\n[FFFF00]SHINE"
         }
     ],
     "social-media-codes": [
