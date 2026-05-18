@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 354
+// عدد الأكواد: 353
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -465,14 +465,6 @@ const allCodeData = {
             "template": "[c][000000](⌐■_■)",
             "keywords": [
                 "كوول"
-            ]
-        },
-        {
-            "title": "رمز الجيتار",
-            "id": "shape-guitar",
-            "template": "[c][6D7B8D]🎸",
-            "keywords": [
-                "جيتار"
             ]
         },
         {
