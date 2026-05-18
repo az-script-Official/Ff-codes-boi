@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 291
+// عدد الأكواد: 289
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1679,16 +1679,6 @@ const allCodeData = {
             "title": "حالة: مزاج جيد",
             "id": "status-good-mood",
             "template": "[b][00FF00]● GOOD MOOD"
-        },
-        {
-            "title": "حيوان: الغوريلا",
-            "id": "animal-gorilla",
-            "template": "[b][c][A0A0A0]SILVERBACK\n[000000]🦍"
-        },
-        {
-            "title": "حيوان: الدب القطبي",
-            "id": "animal-polar-bear",
-            "template": "[b][c][FFFFFF]POLAR POWER\n[A0A0A0]🐻‍❄️"
         },
         {
             "title": "مقولة: الحياة قصيرة",
