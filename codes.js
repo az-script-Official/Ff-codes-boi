@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 372
+// عدد الأكواد: 370
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -240,14 +240,6 @@ const allCodeData = {
             ]
         },
         {
-            "title": "كود موجة البحر",
-            "id": "shape-wave",
-            "template": "[c][00aaff]~ ~ ~ ~ [FFFFFF]Wave [00aaff]~ ~ ~ ~",
-            "keywords": [
-                "بحر"
-            ]
-        },
-        {
             "title": "إطار نيون",
             "id": "shape-neon-frame",
             "template": "[c][b][00F2EA]╔═══════╗\n  [FFFFFF]{{TEXT}}\n[00F2EA]╚═══════╝",
@@ -287,14 +279,6 @@ const allCodeData = {
             "template": "[c][00F2EA]  /\\\n /__\\\n(____)",
             "keywords": [
                 "جوهرة"
-            ]
-        },
-        {
-            "title": "شكل لهب أزرق",
-            "id": "shape-blue-flame",
-            "template": "[c][00aaff]🔥\n[b][FFFFFF]Blue Fire",
-            "keywords": [
-                "لهب"
             ]
         },
         {
