@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 308
+// عدد الأكواد: 307
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1542,11 +1542,6 @@ const allCodeData = {
             "title": "متخصص AWM",
             "id": "gaming-awm-god",
             "template": "[b][c][008000]AWM GOD"
-        },
-        {
-            "title": "محترف CQC",
-            "id": "gaming-cqc-expert",
-            "template": "[b][c][FFA500]CQC EXPERT"
         },
         {
             "title": "لا مكان للاختباء",
