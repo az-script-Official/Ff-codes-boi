@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 303
+// عدد الأكواد: 302
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1643,11 +1643,6 @@ const allCodeData = {
             "keywords": [
                 "حياة"
             ]
-        },
-        {
-            "title": "برج الحمل ♈",
-            "id": "zodiac-aries",
-            "template": "[c][b][FF8800]♈︎ ARIES ♈︎"
         },
         {
             "title": "برج الثور ♉",
