@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 387
+// عدد الأكواد: 381
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -57,60 +57,12 @@ const allCodeData = {
             "template": "[c][FF00FF]♪[00F2EA]♫[FF00FF]♩[00F2EA]♪"
         },
         {
-            "title": "صاروخ فضاء",
-            "id": "shape-rocket",
-            "template": "[c][A0A0A0]    /\\\n   /  \\\n[FFFFFF]  /____\\\n  [E1D9D1] |    |\n   |    |\n[FF9933]  /|/\\|\\",
-            "keywords": [
-                "فضاء"
-            ]
-        },
-        {
-            "title": "سيارة سباق",
-            "id": "shape-racecar",
-            "template": "[c][FF0000]__\n[A0A0A0]o-[FFFFFF]~\\_[A0A0A0]_____\n[FFFFFF]  (●)________(●)",
-            "keywords": [
-                "سياره"
-            ]
-        },
-        {
             "title": "وجه قطة (Kaomoji)",
             "id": "shape-cat-face",
             "template": "[c][FFFFFF]=＾● ⋏ ●＾=",
             "keywords": [
                 "قطة",
                 "بسة"
-            ]
-        },
-        {
-            "title": "كود خطر ☣️",
-            "id": "new-biohazard",
-            "template": "[b][c][FFFF00]BIOHAZARD\n[FFFFFF]    ☣︎",
-            "keywords": [
-                "سام"
-            ]
-        },
-        {
-            "title": "رمز الإشعاع",
-            "id": "new-radiation",
-            "template": "[b][c][00FF00]TOXIC\n[FFFF00]    ☢︎",
-            "keywords": [
-                "نووي"
-            ]
-        },
-        {
-            "title": "رمز لا نهائي",
-            "id": "new-infinity",
-            "template": "[b][c][00F2EA]INFINITY\n[FFFFFF]    ∞",
-            "keywords": [
-                "انفنتي"
-            ]
-        },
-        {
-            "title": "رمز درع المحارب",
-            "id": "new-shield",
-            "template": "[b][c][6D7B8D]WARRIOR\n[FFFFFF]     🛡︎",
-            "keywords": [
-                "درع"
             ]
         },
         {
