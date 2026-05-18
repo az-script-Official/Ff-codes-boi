@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 373
+// عدد الأكواد: 372
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -221,14 +221,6 @@ const allCodeData = {
             "keywords": [
                 "قرصان",
                 "جمجمة"
-            ]
-        },
-        {
-            "title": "رمز السلام",
-            "id": "shape-peace",
-            "template": "[c][00aaff]☮︎ PEACE",
-            "keywords": [
-                "سلام"
             ]
         },
         {
