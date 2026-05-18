@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-18
-// عدد الأكواد: 357
+// عدد الأكواد: 356
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -457,14 +457,6 @@ const allCodeData = {
             "template": "[c][FF00FF]꧁∞꧂",
             "keywords": [
                 "انفنتي"
-            ]
-        },
-        {
-            "title": "شكل شمعة",
-            "id": "shape-candle",
-            "template": "[c][FFFF00]🕯️",
-            "keywords": [
-                "شمعة"
             ]
         },
         {
