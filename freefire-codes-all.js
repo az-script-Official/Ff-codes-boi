@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 569
+// عدد الأكواد: 568
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2891,11 +2891,6 @@ const allCodeData = {
             "title": "كود منطقة محظورة",
             "id": "misc-restricted-area",
             "template": "[c][b][FF0000]RESTRICTED\n[A0A0A0]AREA"
-        },
-        {
-            "title": "موسيقى هي حياتي",
-            "id": "quote-music-life",
-            "template": "[c][b][FF00FF]MUSIC\n[FFFFFF]IS MY\n[00F2EA]LIFE"
         },
         {
             "title": "حالة: أفكر",
