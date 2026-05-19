@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 570
+// عدد الأكواد: 569
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -3077,14 +3077,6 @@ const allCodeData = {
         }
     ],
     "religious-codes": [
-        {
-            "title": "جاي شري رام",
-            "id": "jai-shree-ram",
-            "template": "[b][c][FF9933]🚩 जय श्री राम 🚩 ▬▬▬▬🚩▬▬▬▬",
-            "keywords": [
-                "رام"
-            ]
-        },
         {
             "title": "الله واحد",
             "id": "allah-is-one",
