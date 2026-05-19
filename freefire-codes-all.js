@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 549
+// عدد الأكواد: 548
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2006,11 +2006,6 @@ const allCodeData = {
             "title": "كود سولو ضد سكواد",
             "id": "new-solo-squad",
             "template": "[b][c]SOLO\n[FF0000]vs\n[FFFFFF]SQUAD"
-        },
-        {
-            "title": "كود الذئب المنفرد",
-            "id": "new-lone-wolf",
-            "template": "[b][c][A0A0A0]LONE WOLF\n[FFFFFF]      🐺"
         },
         {
             "title": "كود أسطورة لا تموت",
