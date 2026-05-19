@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 522
+// عدد الأكواد: 520
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -656,11 +656,6 @@ const allCodeData = {
             "template": "✨ País das Maravilhas ✨"
         },
         {
-            "title": "فريق تك",
-            "id": "tek-team",
-            "template": "⚡Tek⚡Team⚡"
-        },
-        {
             "title": "خطوط متعامدة",
             "id": "cross-lines",
             "template": "▀▄▀▄▀▄"
@@ -704,11 +699,6 @@ const allCodeData = {
             "title": "وجه حزن",
             "id": "sad-face-2",
             "template": "(｡•́︿•̀｡)"
-        },
-        {
-            "title": "صباح الخير مزخرف",
-            "id": "good-morning-fancy",
-            "template": "꧁Good morning ꧂"
         },
         {
             "title": "تيك توك فاخر",
