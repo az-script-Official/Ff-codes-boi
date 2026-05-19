@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 589
+// عدد الأكواد: 586
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -3171,11 +3171,6 @@ const allCodeData = {
             "template": "[b][c][00FF00]☪ ALLAH IS ONE ▬▬▬▬☪▬▬▬▬"
         },
         {
-            "title": "786",
-            "id": "786-islamic",
-            "template": "[b][c][FFFF00]◈ 7 8 6 ◈"
-        },
-        {
             "title": "بسم الله",
             "id": "bismillah",
             "template": "[00FF00]BISMILLAH"
@@ -3186,19 +3181,9 @@ const allCodeData = {
             "template": "[b][c][00FF00]☪ MUSLIM POWER ◢◤◢◤◢◤◢◤"
         },
         {
-            "title": "يا علي",
-            "id": "ya-ali",
-            "template": "[b][c][FF0000]⚔️ YA ALI ⚔️ ▬▬▬▬▬▬▬▬"
-        },
-        {
             "title": "الإسلام",
             "id": "islam",
             "template": "[b][c][00FF00]☪\n[ffffff]▬▬▬▬▬▬▬ I S L A M"
-        },
-        {
-            "title": "أحب المدينة",
-            "id": "love-madina",
-            "template": "[b][c][00FF00]I LOVE MADINA ◈◈◈☪◈◈◈"
         },
         {
             "title": "خان",
