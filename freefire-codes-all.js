@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 562
+// عدد الأكواد: 561
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1489,11 +1489,6 @@ const allCodeData = {
             "title": "رسمة قلب كبير",
             "id": "love-art-1",
             "template": "[c][FF0000]██[FFFFFF]██[FF0000]██[FFFFFF]██\n[FF0000]██[FFFFFF]██[FF0000]██[FFFFFF]██[FF0000]██\n [FF0000]██[FFFFFF]██[FF0000]██[FFFFFF]██\n  [FF0000]██[FFFFFF]██\n   [FF0000]█"
-        },
-        {
-            "title": "مفتاح قلبي",
-            "id": "love-7",
-            "template": "[c][b][FFD700]🔑 [FFFFFF]The key to my [FF0000]❤"
         },
         {
             "title": "قصة حبنا",
