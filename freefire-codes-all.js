@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 571
+// عدد الأكواد: 570
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -3084,11 +3084,6 @@ const allCodeData = {
             "keywords": [
                 "رام"
             ]
-        },
-        {
-            "title": "هندو فخور",
-            "id": "proud-hindu",
-            "template": "[b][c][FF9933]PROUD HINDU ▬▬▬▬▬▬▬▬"
         },
         {
             "title": "الله واحد",
