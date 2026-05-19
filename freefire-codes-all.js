@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 526
+// عدد الأكواد: 522
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -736,11 +736,6 @@ const allCodeData = {
             "template": "⟭⟬𝐀𝐑𝐌𝐘💂"
         },
         {
-            "title": "أوم رمز",
-            "id": "om-symbol",
-            "template": "🕉"
-        },
-        {
             "title": "رمز قديم 1",
             "id": "ancient-sym-1",
             "template": "𒄆"
@@ -751,24 +746,9 @@ const allCodeData = {
             "template": "𒀱"
         },
         {
-            "title": "إطار فاخر",
-            "id": "fancy-frame",
-            "template": "꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂"
-        },
-        {
             "title": "يين يانغ رمز",
             "id": "yinyang-symbol",
             "template": "☯"
-        },
-        {
-            "title": "دون مزخرف",
-            "id": "don-fancy",
-            "template": "꧁ঔৣ☬✞𝓓𝖔𝖓✞☬ঔৣ꧂"
-        },
-        {
-            "title": "لا وقت للموت",
-            "id": "no-time-die",
-            "template": "𝓝𝓸 𝓽𝓲𝓶𝓮 𝓽𝓸 𝓭𝓲𝓮"
         },
         {
             "title": "راي ستار",
