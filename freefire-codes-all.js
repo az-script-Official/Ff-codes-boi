@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 516
+// عدد الأكواد: 514
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -554,16 +554,6 @@ const allCodeData = {
             "title": "سرعة فنية",
             "id": "speed-art",
             "template": "[b][c][FF0099] / | 0–[80]–180 SPEED"
-        },
-        {
-            "title": "وجه نينجا فني",
-            "id": "ninja-face-art",
-            "template": "[b][c][FF0000] 👤 [ -_- ] 👤 N I N J A"
-        },
-        {
-            "title": "محب موسيقى فني",
-            "id": "music-lover-art",
-            "template": "[b][c][00FFFF] ılı.lıllılı.ıllı. MUSIC LOVER"
         },
         {
             "title": "ألماسة فنية",
