@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 547
+// عدد الأكواد: 546
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2620,11 +2620,6 @@ const allCodeData = {
             "title": "MP40 فني",
             "id": "mp40-art",
             "template": "[c][/b][fdfe00] ▂▂▂▂▄▙▟▄▄▂▂▂▂▂▙ [ff0200]▙█▀▜▛◤Mp40"
-        },
-        {
-            "title": "ملك الطلقة الواحدة فني",
-            "id": "one-tap-king-art",
-            "template": "[b][c][FF8800] ████◤----- ◢◤'╯ ONE TAP KING"
         },
         {
             "title": "ملك MP40 فني",
