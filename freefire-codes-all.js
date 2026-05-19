@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 553
+// عدد الأكواد: 552
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -3295,11 +3295,6 @@ const allCodeData = {
             "title": "جاي هانومان فري فاير",
             "id": "ff-jai-hanuman",
             "template": "[b][c][FF9933] JAI HANUMAN"
-        },
-        {
-            "title": "جاي شري رام فري فاير",
-            "id": "ff-jai-shree-ram",
-            "template": "[b][c][FF0000] ✿ [00FF00] ᭄⸙ [FF9933]जय श्री राम"
         }
     ]
 };
