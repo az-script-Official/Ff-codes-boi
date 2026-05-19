@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 563
+// عدد الأكواد: 562
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2530,11 +2530,6 @@ const allCodeData = {
             "title": "القاتل",
             "id": "killer-gaming",
             "template": "[b][c][FF0000]◣◢ K I L L E R ◣◢ ◥◤◥◤◥◤◥◤"
-        },
-        {
-            "title": "باد بوي",
-            "id": "bad-boy-gaming",
-            "template": "[b][c][FF0099]B A D B O Y ▂▃▅▆█▆▅▃▂"
         },
         {
             "title": "لا يقهر",
