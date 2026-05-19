@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 538
+// عدد الأكواد: 534
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -536,34 +536,14 @@ const allCodeData = {
             "template": "[B][C]╱◥██████◣ [00f0f0]│∩│▤│▤│▤ ▓▓▓▓▓▓▓▓▓"
         },
         {
-            "title": "سيارة فنية",
-            "id": "car-art",
-            "template": "[b][c][00FFFF] ______ /|_||_\\` (o____o)"
-        },
-        {
-            "title": "سيارة هجينة فنية",
-            "id": "car-art-2",
-            "template": "[b][c][FF9933] / /____| ∩ |"
-        },
-        {
             "title": "شريط تحميل",
             "id": "loading-bar",
             "template": "[b][c][ffffff]LOADING… [00FF00]██████▒▒▒"
         },
         {
-            "title": "محب فري فاير",
-            "id": "ff-lover-car",
-            "template": "[b][c][FF0000]__/__/____ FF LOVER"
-        },
-        {
             "title": "VS فني",
             "id": "vs-art",
             "template": "[b][c][ffffff]⚔️ ╾━╤デ╦︻ ⚔️ V S"
-        },
-        {
-            "title": "النجاح سلالم",
-            "id": "success-stairs",
-            "template": "[b][c][00FFFF] _| _| _| SUCCESS"
         },
         {
             "title": "روبوت فني",
