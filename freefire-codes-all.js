@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 550
+// عدد الأكواد: 549
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2876,11 +2876,6 @@ const allCodeData = {
             "title": "كن شجاعا",
             "id": "quote-be-brave",
             "template": "[c][b][FFA500]BE BRAVE"
-        },
-        {
-            "title": "عش، اضحك، حب",
-            "id": "quote-live-laugh-love",
-            "template": "[c][b][00FF00]Live. [FF00FF]Laugh. [FF0000]Love."
         }
     ],
     "social-media-codes": [
