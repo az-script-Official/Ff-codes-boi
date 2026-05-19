@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 534
+// عدد الأكواد: 531
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1061,24 +1061,9 @@ const allCodeData = {
             "template": "(˶˃ ᵕ ˂˶)"
         },
         {
-            "title": "فتاة ستار",
-            "id": "star-girl",
-            "template": "𝐒𝐭✰𝐫𝐠𝐢𝐫𝐥"
-        },
-        {
-            "title": "ليموناضة",
-            "id": "lemonade",
-            "template": "⋆｡˚୨𝑳𝒆𝒎𝒐𝒏𝒂𝒅𝒆୧˚｡⋆"
-        },
-        {
             "title": "تاج ملكي",
             "id": "royal-crown",
             "template": "꧁ ༺♔ ༻ ꧂"
-        },
-        {
-            "title": "جاي شري رام فاخر",
-            "id": "jai-shree-ram-fancy",
-            "template": "ᎫᴀʏㅤᏚʜʀᴇᴇㅤᏒᴀᴍ"
         },
         {
             "title": "وجه إشارة",
