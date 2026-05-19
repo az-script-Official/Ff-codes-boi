@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 554
+// عدد الأكواد: 553
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1763,11 +1763,6 @@ const allCodeData = {
             "title": "قلوب متعددة",
             "id": "hearts-many",
             "template": "[b][c][FF0000]♡ ♡ ♡ ♡ ♡ ♡ ♡"
-        },
-        {
-            "title": "حياة العزوبية أفضل حياة",
-            "id": "single-life",
-            "template": "[b][c][00FF00]SINGLE LIFE ★ BEST LIFE ★"
         },
         {
             "title": "أنا أحبك فاخر",
