@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 565
+// عدد الأكواد: 563
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2560,19 +2560,9 @@ const allCodeData = {
             "template": "[b][c][FF0000]◈◈ THE DON ◈◈ ▬▬▬▬▬▬▬▬"
         },
         {
-            "title": "خطر جهد عالي",
-            "id": "danger-high-voltage",
-            "template": "[b][c][FFFF00]⚡ DANGER ⚡\n[00FFFF]HIGH VOLTAGE"
-        },
-        {
             "title": "جيش رجل واحد",
             "id": "one-man-army",
             "template": "[b][c][00FF00]ONE MAN ARMY ◢◤◢◤◢◤◢◤"
-        },
-        {
-            "title": "ولد الأتيتود",
-            "id": "attitude-boy",
-            "template": "[b][c][FF0099]ATTITUDE BOY ﹏﹏﹏◈﹏﹏﹏"
         },
         {
             "title": "مافيا",
