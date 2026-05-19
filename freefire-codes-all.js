@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 544
+// عدد الأكواد: 543
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1117,11 +1117,6 @@ const allCodeData = {
             "title": "ليموناضة",
             "id": "lemonade",
             "template": "⋆｡˚୨𝑳𝒆𝒎𝒐𝒏𝒂𝒅𝒆୧˚｡⋆"
-        },
-        {
-            "title": "عمر 7 سنوات",
-            "id": "7-year-old",
-            "template": "7 इयर्स ओल्ड"
         },
         {
             "title": "تاج ملكي",
