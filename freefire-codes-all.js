@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 552
+// عدد الأكواد: 550
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -3043,19 +3043,9 @@ const allCodeData = {
             "template": "[b][c][ffffff]PROUD MUSLIM [00FF00]◢◤◢◤◢◤◢◤"
         },
         {
-            "title": "سيد",
-            "id": "syed",
-            "template": "[b][c][FF0099]S Y E D ◈◈◈◈◈◈◈◈"
-        },
-        {
             "title": "الإسلام سلام",
             "id": "islam-peace",
             "template": "[b][c][00FF00]🌙 ISLAM 🌙 PEACE"
-        },
-        {
-            "title": "سلطان",
-            "id": "sultan",
-            "template": "[b][c][FFFF00]S U L T A N 👑👑👑👑👑"
         },
         {
             "title": "الحمد لله",
