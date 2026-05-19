@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 530
+// عدد الأكواد: 528
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -866,11 +866,6 @@ const allCodeData = {
             "template": "☕︎"
         },
         {
-            "title": "شري كريشنا",
-            "id": "shri-krishna",
-            "template": "⍣⃝श्री🪈kʀɪꜱʜɴ༗🪈"
-        },
-        {
             "title": "زخرفة خط",
             "id": "line-deco-2",
             "template": "⌇ ▬▬ڪ"
@@ -904,11 +899,6 @@ const allCodeData = {
             "title": "شيكاري",
             "id": "shikari",
             "template": "╰‿╯™Sʜɪᴋᴀʀɪ모"
-        },
-        {
-            "title": "هيرا بيتا",
-            "id": "hera-beta",
-            "template": "★ हेरा बीटा ★"
         },
         {
             "title": "وجه مراقبة",
