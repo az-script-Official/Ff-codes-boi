@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 539
+// عدد الأكواد: 538
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -385,14 +385,6 @@ const allCodeData = {
             "template": "[c][FF0000]>:)",
             "keywords": [
                 "شيطان"
-            ]
-        },
-        {
-            "title": "شكل منزل",
-            "id": "shape-house",
-            "template": "[c][E1D9D1]   /\\ \n  /  \\ \n |----| \n |[] |",
-            "keywords": [
-                "منزل"
             ]
         },
         {
