@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 545
+// عدد الأكواد: 544
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2306,11 +2306,6 @@ const allCodeData = {
             "title": "محترف الحركة",
             "id": "gaming-movement-god",
             "template": "[b][c][00aaff]MOVEMENT GOD"
-        },
-        {
-            "title": "اسكواد وايب",
-            "id": "gaming-squad-wipe",
-            "template": "[b][c][FF0000]SQUAD WIPE"
         },
         {
             "title": "الأفضل في اللعبة",
