@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 558
+// عدد الأكواد: 554
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -1715,24 +1715,9 @@ const allCodeData = {
             "template": "[c][b]You are my [FF00FF]magic"
         },
         {
-            "title": "مكتوب في النجوم",
-            "id": "love-in-stars",
-            "template": "[c][b]Written in the [FFFF00]stars"
-        },
-        {
-            "title": "أنت مغامرتي",
-            "id": "love-my-adventure",
-            "template": "[c][b]My greatest [FFA500]adventure"
-        },
-        {
             "title": "حب أبدي",
             "id": "love-undying",
             "template": "[c][b]An [FF0000]undying [A0A0A0]love"
-        },
-        {
-            "title": "أنت الفرح",
-            "id": "love-my-joy",
-            "template": "[c][b]You are my [FFFF00]joy"
         },
         {
             "title": "حبنا فريد",
@@ -1753,11 +1738,6 @@ const allCodeData = {
             "title": "حب 99%",
             "id": "love-99-percent",
             "template": "[b][c][FF0000]LOVE… 99% [ffffff]█████████▒"
-        },
-        {
-            "title": "كوين و كينغ",
-            "id": "king-queen",
-            "template": "[b][c][FFFF00]K I N G ♡ [FF0099]Q U E E N"
         },
         {
             "title": "أفتقدك",
