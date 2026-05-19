@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 586
+// عدد الأكواد: 571
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -3084,81 +3084,6 @@ const allCodeData = {
             "keywords": [
                 "رام"
             ]
-        },
-        {
-            "title": "مهاكال",
-            "id": "mahakaal",
-            "template": "[b][c][FF0000]🔱 महाकाल 🔱"
-        },
-        {
-            "title": "أوم ناماه شيفايا",
-            "id": "om-namah-shivaya",
-            "template": "[00FFFF]ॐ नमः शिवाय"
-        },
-        {
-            "title": "جاي هانومان",
-            "id": "jai-hanuman",
-            "template": "[b][c][FF9933]🚩 जय हनुमान 🚩 ᭄⸙ बजरंगबली ᭄⸙"
-        },
-        {
-            "title": "ساناتان دارما",
-            "id": "sanatan-dharma",
-            "template": "[b][c][FF9933]सनातन धर्म ◢◤◢◤◢◤◢◤"
-        },
-        {
-            "title": "أوم",
-            "id": "om-hindu",
-            "template": "[b][c][FF0000]ॐ"
-        },
-        {
-            "title": "هندو",
-            "id": "hindu",
-            "template": "[FF9933]▬▬▬▬▬▬▬ H I N D U"
-        },
-        {
-            "title": "باكت ماهاديف",
-            "id": "mahadev-bhakt",
-            "template": "[b][c][00FFFF]महादेव के भक्त 🔱🔱🔱🔱🔱"
-        },
-        {
-            "title": "خاتو شيام",
-            "id": "khatu-shyam",
-            "template": "[b][c][FFFF00]❂ खाटू श्याम ❂ हारे का सहारा"
-        },
-        {
-            "title": "كاتار هندو",
-            "id": "kattar-hindu",
-            "template": "[b][c][FF9933]🚩 कट्टर हिंदू 🚩 ▂▃▅▆█▆▅▃▂"
-        },
-        {
-            "title": "بارشورام",
-            "id": "parshuram",
-            "template": "[b][c][FF9933]🪓 परशुराम 🪓 ब्राह्मण साम्राज्य"
-        },
-        {
-            "title": "جاي ماتا دي",
-            "id": "jai-mata-di",
-            "template": "[b][c][FF0000]🚩 जय माता दी 🚩 शक्ति"
-        },
-        {
-            "title": "رام باكت",
-            "id": "ram-bhakt",
-            "template": "[b][c][FF9933]राम भक्त ╾━╤デ╦︻"
-        },
-        {
-            "title": "كال بهي أوسكا كيا بيغادي",
-            "id": "kaal-bhi-uska",
-            "template": "[b][c][FF0000]🔱 काल भी उसका क्या बिगाड़े 🔱"
-        },
-        {
-            "title": "بهولي بابا",
-            "id": "bhole-baba",
-            "template": "[b][c][00FFFF]भोले बाबा 🌀🌀🌀🌀🌀"
-        },
-        {
-            "title": "بهجوا رانغ",
-            "id": "bhagwa-rang",
-            "template": "[b][c][FF9933]भगवा रंग ◈◈◈🚩◈◈◈"
         },
         {
             "title": "هندو فخور",
