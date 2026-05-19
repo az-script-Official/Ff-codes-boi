@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 566
+// عدد الأكواد: 565
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2700,11 +2700,6 @@ const allCodeData = {
             "title": "SVD فني",
             "id": "svd-art",
             "template": "[CCFF00] ▂▂▂▂▄▙▟▄▄▂▂▂▂▂▙ SVD ▙█'╯▜"
-        },
-        {
-            "title": "ملك M1887 PRO فني",
-            "id": "m1887pro-art",
-            "template": "[c][/b][fdfe00]██[ff0200]███████ [b] ◢◤'╯M1887PRO"
         },
         {
             "title": "GOLD FLACK فني",
