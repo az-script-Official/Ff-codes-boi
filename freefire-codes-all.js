@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 546
+// عدد الأكواد: 545
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2361,14 +2361,6 @@ const allCodeData = {
             "title": "STILL ALIVE",
             "id": "still-alive",
             "template": "[FFFF00]S T I L L – A L I V E"
-        },
-        {
-            "title": "ملك الكيبورد",
-            "id": "keyboard-god",
-            "template": "[b][c][00FF00]◈ KEYBOARD GOD ◈ ◈ MOUSE KING ◈",
-            "keywords": [
-                "كيبورد"
-            ]
         },
         {
             "title": "ONE TAP GOD",
