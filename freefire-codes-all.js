@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 567
+// عدد الأكواد: 566
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -2645,11 +2645,6 @@ const allCodeData = {
             "title": "لاعب ألماسة",
             "id": "diamond-player",
             "template": "[b][c][00FFFF]◢◣ DIAMOND ◢◣ ◥◤ PLAYER ◥◤"
-        },
-        {
-            "title": "الحارس الأعلى",
-            "id": "top-guard",
-            "template": "[b][c][FFFF00]🛡️ TOP GUARD 🛡️ ▬▬▬▬▬▬▬▬"
         },
         {
             "title": "شارة النيون",
