@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 531
+// عدد الأكواد: 530
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -864,11 +864,6 @@ const allCodeData = {
             "title": "قهوة",
             "id": "coffee",
             "template": "☕︎"
-        },
-        {
-            "title": "انستغرام فيكرانت",
-            "id": "insta-vikrant",
-            "template": "𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦🅾 Vikrant"
         },
         {
             "title": "شري كريشنا",
