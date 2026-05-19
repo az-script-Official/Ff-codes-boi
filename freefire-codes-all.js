@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 591
+// عدد الأكواد: 589
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -3453,16 +3453,6 @@ const allCodeData = {
             "title": "أحب فري فاير القديم",
             "id": "love-old-ff",
             "template": "[B][C]I LOVE❤️ OLD FREE F[FF8800]I[FFFFFF]RE"
-        },
-        {
-            "title": "هندي فني",
-            "id": "indian-art",
-            "template": "[FF9000]█████ [FFFFFF]█████INDIAN [00FF00]█████"
-        },
-        {
-            "title": "الهند فني",
-            "id": "india-art",
-            "template": "[FF9000]█████ [FFFFFF]██✿██ INDIA [00FF00]█████"
         },
         {
             "title": "صديقتي المفضلة",
