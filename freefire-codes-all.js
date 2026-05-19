@@ -1,5 +1,5 @@
 // كود الأكواد - آخر تحديث: 2026-05-19
-// عدد الأكواد: 528
+// عدد الأكواد: 526
 const allCodeData = {
     "shapes-graphics-codes": [
         {
@@ -851,19 +851,9 @@ const allCodeData = {
             "template": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄"
         },
         {
-            "title": "فيرات كوهلي",
-            "id": "virat-kohli",
-            "template": "VIRAT KOHLI 🗿"
-        },
-        {
             "title": "طائرة",
             "id": "airplane",
             "template": "✈︎"
-        },
-        {
-            "title": "قهوة",
-            "id": "coffee",
-            "template": "☕︎"
         },
         {
             "title": "زخرفة خط",
